@@ -24,4 +24,4 @@ Acesse o protótipo no Proto.io:
 - Proto.io
 
 ## 📷 Preview
-![Tela Home](./screens/home.png)
+![Tela Home](./screens/wireframe-medio-consultorias.png)
